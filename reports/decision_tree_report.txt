@@ -1,0 +1,17 @@
+Decision Tree Results
+---------------------------------------------
+Accuracy: 0.999821
+
+Classification Report:
+              precision    recall  f1-score   support
+
+      BENIGN       1.00      1.00      1.00     19014
+        DDoS       1.00      1.00      1.00     25603
+
+    accuracy                           1.00     44617
+   macro avg       1.00      1.00      1.00     44617
+weighted avg       1.00      1.00      1.00     44617
+
+Confusion Matrix (BENIGN, DDoS):
+[[19009     5]
+ [    3 25600]]

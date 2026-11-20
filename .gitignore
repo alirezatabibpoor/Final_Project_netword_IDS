@@ -1,0 +1,33 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Dataset files
+data/
+
+# Model files: ignore by default
+models/
+
+# Keep selected model files if needed
+# !models/
+# !models/random_forest_multiclass.joblib
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log

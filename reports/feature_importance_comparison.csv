@@ -1,0 +1,79 @@
+Feature,Decision_Tree_Importance,Decision_Tree_Rank,Random_Forest_Importance,Random_Forest_Rank,Shared_Top20
+Destination Port,0.3199103608533316,1,0.07114962148043,1.0,True
+min_seg_size_forward,0.0715026355867252,2,0.020281731270083,15.0,True
+Average Packet Size,0.0659352755427238,3,0.0226335775844734,11.0,True
+Fwd Packet Length Max,0.063580103810176,4,0.0299535134186146,3.0,True
+Bwd Packet Length Max,0.0603854627118673,5,0.0235161894881696,9.0,True
+Bwd IAT Mean,0.0603223346722286,6,,,False
+Active Min,0.0522195151614433,7,,,False
+Flow Bytes/s,0.0490579152977374,8,,,False
+Bwd Packet Length Std,0.046687496420089,9,,,False
+Flow IAT Std,0.0395976747978005,10,,,False
+Init_Win_bytes_forward,0.0274016795650679,11,0.0242948139994999,7.0,True
+Bwd Packets/s,0.0252675034097104,12,0.0209204460149709,14.0,True
+Idle Max,0.0225471249341262,13,,,False
+Total Length of Fwd Packets,0.0161337669364582,14,0.0188820661414659,19.0,True
+Bwd IAT Min,0.0160777259104807,15,,,False
+Init_Win_bytes_backward,0.0153004027109302,16,0.0249107043732153,5.0,True
+Max Packet Length,0.0108716484187025,17,,,False
+Bwd Packet Length Min,0.0086321589515915,18,,,False
+Bwd Packet Length Mean,0.0079850074433828,19,,,False
+Flow IAT Mean,0.0030199919754558,20,0.0273471242770621,4.0,True
+Bwd Header Length,0.0029517226122244,21,0.0359379732597134,2.0,False
+Total Backward Packets,0.0023838224005698,22,0.0221808284570189,12.0,False
+PSH Flag Count,0.0013902523997142,23,,,False
+ACK Flag Count,0.001354369705905,24,,,False
+Fwd IAT Total,0.00134929505085,25,,,False
+Fwd IAT Min,0.0011801386611245,26,,,False
+Flow Duration,0.0007111419755834,27,0.0242172437387389,8.0,False
+Fwd Header Length,0.0006991101529562,28,,,False
+Subflow Fwd Packets,0.0006410885837494,29,,,False
+Bwd IAT Std,0.0006066641080535,30,,,False
+Total Length of Bwd Packets,0.0005911355622409,31,,,False
+URG Flag Count,0.0005572066060359,32,,,False
+Flow IAT Min,0.0004907633030504,33,,,False
+Fwd Packets/s,0.0003819578322642,34,0.0182097011205007,20.0,False
+Packet Length Variance,0.0002731950797512,35,,,False
+Fwd Header Length.1,0.0002642129192072,36,,,False
+Packet Length Mean,0.0002587623569667,37,0.0230120448703494,10.0,False
+Flow Packets/s,0.0002512442292557,38,0.022132266536679,13.0,False
+Active Std,0.0001896032505744,39,,,False
+Fwd Packet Length Std,0.0001640257416155,40,,,False
+Down/Up Ratio,0.0001444249637534,41,,,False
+Avg Bwd Segment Size,0.0001213242878785,42,0.0197761595117519,17.0,False
+Fwd IAT Std,0.0001041867958618,43,,,False
+Fwd IAT Mean,9.27203521405686e-05,44,0.0196411248609326,18.0,False
+Subflow Bwd Bytes,6.866292077819208e-05,45,,,False
+Active Max,6.7447996993878e-05,46,,,False
+Flow IAT Max,6.184298628653872e-05,47,,,False
+Packet Length Std,5.630320644859969e-05,48,,,False
+act_data_pkt_fwd,4.52671345285108e-05,49,,,False
+Subflow Fwd Bytes,3.028804695948631e-05,50,0.0244602655652537,6.0,False
+Min Packet Length,2.2441144908086453e-05,51,,,False
+FIN Flag Count,2.122826639092068e-05,52,,,False
+Fwd IAT Max,9.661850805366282e-06,53,,,False
+Bwd IAT Max,9.133874876564336e-06,54,,,False
+Idle Std,9.116226075681273e-06,55,,,False
+Total Fwd Packets,3.699202632181017e-06,56,,,False
+Subflow Bwd Packets,3.348607749944453e-06,57,,,False
+Fwd Packet Length Min,1.385303505450704e-06,58,,,False
+Idle Min,1.3268409339898146e-06,59,,,False
+Bwd IAT Total,4.6083871368778883e-07,60,,,False
+Active Mean,2.315100531719248e-07,61,,,False
+Avg Fwd Segment Size,2.0669127575834727e-15,62,0.019821527967983,16.0,False
+Idle Mean,1.7966886348539803e-18,63,,,False
+Fwd Packet Length Mean,1.4906227311224596e-18,64,,,False
+RST Flag Count,0.0,65,,,False
+SYN Flag Count,0.0,66,,,False
+Bwd URG Flags,0.0,67,,,False
+Fwd URG Flags,0.0,68,,,False
+Bwd PSH Flags,0.0,69,,,False
+Fwd PSH Flags,0.0,70,,,False
+Bwd Avg Bulk Rate,0.0,71,,,False
+Bwd Avg Packets/Bulk,0.0,72,,,False
+Bwd Avg Bytes/Bulk,0.0,73,,,False
+Fwd Avg Bulk Rate,0.0,74,,,False
+Fwd Avg Packets/Bulk,0.0,75,,,False
+Fwd Avg Bytes/Bulk,0.0,76,,,False
+CWE Flag Count,0.0,77,,,False
+ECE Flag Count,0.0,78,,,False
